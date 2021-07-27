@@ -23,19 +23,8 @@ public class Quiz01 {
 		num3 = input.nextInt();
       
 	    System.out.println("num1 : "+num2+",num2 : "+num3);
-	    String a = (num2 >= num3)? "num1가  num2 보다크다":"num2가 보다 num1 보다크다";
+	    String a = (num2 >= num3)? "num1가  num2 보다 크다":"num2가 보다 num1 보다 크다";
 	    System.out.println(a);
-	    
-//	    System.out.println("num2 : " +num3);
-	     
-	    System.out.println();
-	    
-//	    System.in.read();
-//	    System.in.read();
-
-//	    System.out.println("num : "+ num2);
-		
-		
 		
 		
 		
